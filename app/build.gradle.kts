@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.bookshelf"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.bookshelf"
@@ -72,6 +72,7 @@ dependencies {
     //Gson
     implementation(libs.gson)
     implementation(libs.converter.gson)
+    implementation(libs.androidx.ui.text.google.fonts)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
