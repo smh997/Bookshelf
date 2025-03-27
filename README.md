@@ -23,5 +23,6 @@ Bookshelf is an Android app that displays a list of books with images from the G
   <img src="screenShots/bookshelf_2.jpg" alt="Bookshelf App Screenshot 2" width="300"/>
   <img src="screenShots/bookshelf_3.jpg" alt="Bookshelf App Screenshot 3" width="300"/>
 </p>
+
 ### 🎥 Demo
 ![Bookshelf App Demo](screenShots/screenrecord.gif)
